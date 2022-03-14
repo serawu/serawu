@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Seraphina
-- 👀 I’m interested in Machine Learning, NLP(Natural Language Processing), Docker(Containerization), and OOP(Object-oriented Programming)
-- 🌱 I’m currently learning Custom Browser Automation and Golf
+- 👀 I’m interested in __*Machine Learning*__, __*NLP*__(Natural Language Processing), __*Docker*__(Containerization), and __*OOP*__(Object-oriented Programming)
+- 🌱 I’m currently learning __*Custom Browser Automation*__ and Golf
 - 🧩 Outside of work, I like to solo travel
-- 💞️ I’m looking to collaborate on anything FastAPI
+- 💞️ I’m looking to collaborate on anything __*FastAPI*__
 - 📫 Reach me @ serawu@deloitte.com
 
 <!---
